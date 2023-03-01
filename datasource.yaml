@@ -1,0 +1,88 @@
+# 数据来源：https://baike.baidu.com/item/%E6%8A%91%E9%83%81%E8%87%AA%E8%AF%84%E9%87%8F%E8%A1%A8
+subject:
+    -   title: 我觉得闷闷不乐，情绪低沉
+        symptom: 忧郁
+        positive: true
+
+    -   title: 我觉得一天中早晨最好
+        symptom: 晨重夜轻
+        positive: false
+
+    -   title: 一阵阵哭出来或觉得想哭
+        symptom: 易哭
+        positive: true
+
+    -   title: 我晚上睡眠不好
+        symptom: 睡眠障碍
+        positive: true
+
+    -   title: 我吃得跟平常一样多
+        symptom: 食欲减退
+        positive: false
+
+    -   title: 我与异性密切接触时和以往一样感到愉快
+        symptom: 性兴趣减退
+        positive: false
+
+    -   title: 我发觉我的体重在下降
+        symptom: 体重减轻
+        positive: true
+
+    -   title: 我有便秘的苦恼
+        symptom: 便秘
+        positive: true
+
+    -   title: 心跳比平常快
+        symptom: 心悸
+        positive: true
+
+    -   title: 我无缘无故地感到疲乏
+        symptom: 易倦
+        positive: true
+
+    -   title: 我的头脑和平常一样清楚
+        symptom: 思考困难
+        positive: false
+
+    -   title: 我觉得经常做的事情并没有困难
+        symptom: 能力减退
+        positive: false
+
+    -   title: 我觉得不安而平静不下来
+        symptom: 不安
+        positive: true
+
+    -   title: 我对未来抱有希望
+        symptom: 绝望
+        positive: false
+
+    -   title: 我比平常容易生气激动
+        symptom: 易激惹
+        positive: true
+
+    -   title: 我觉得做出决定是容易的
+        symptom: 决断困难
+        positive: false
+
+    -   title: 我觉得自己是个有用的人，有人需要我
+        symptom: 无用感
+        positive: false
+
+    -   title: 我的生活过得很有意思
+        symptom: 生活空虚感
+        positive: false
+
+    -   title: 我认为如果我死了，别人会生活得更好
+        symptom: 无价值感
+        positive: true
+
+    -   title: 平常感兴趣的事我仍然感兴趣
+        symptom: 兴趣丧失
+        positive: false
+
+# 计分：positive 为 true 时分数依次评为 1、2、3、4 分，否则则评为 4、3、2、1
+options:
+    - 没有或很少时间
+    - 少部分时间
+    - 相当多时间
+    - 绝大部分时间或全部时间
